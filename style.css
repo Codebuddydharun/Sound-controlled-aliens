@@ -1,0 +1,36 @@
+body{
+    background-color: #f5dbda;
+}
+
+.header_div{
+    font-family: 'Special Elite', cursive;
+    background-color: white;
+    color: red;
+}
+
+.header_div p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0px;
+    width: 100%;
+    font-size: 20px;
+    background-color: white;
+    text-shadow: 5px 5px 5px gray;
+    text-align: center;
+    line-height: 3;
+}
